@@ -1,0 +1,45 @@
+body{
+margin: auto;
+}
+.logo{
+position: absolute;
+  width: 50px;
+  height:70px;
+  bottom: 350px;
+}
+.banner{
+  background-color: #6c53a8;
+  position: relative;
+  width: 50px;
+  height: 3000px;
+  margin: 0px;
+  padding: 0px;
+}
+.banner2{
+  background-color: #6c53a8;
+  position: absolute;
+  width: 50px;
+  height: 3000px;
+  margin: 0px;
+  padding: 0px;
+  left: 1380px;
+  top:2px;
+}
+.contact{
+  font-size: 40px;
+  font-family: 'Prompt', sans-serif;
+  position: absolute;
+  right: 80px;
+  top: 1px;
+  letter-spacing: -.5px;
+
+}
+#info{
+  font-size: 25px;
+  color: #7c22ba;
+
+}
+.img{
+  position: absolute;
+  left: 500px;
+}

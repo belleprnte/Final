@@ -1,0 +1,65 @@
+ body{
+margin: auto;
+}
+
+.logo{
+  position: relative;
+  width: 50px;
+  height:30px;
+}
+.banner{
+  background-color: #6c53a8;
+  position: relative;
+  width: 50px;
+  height: 3000px;
+  margin: 0px;
+  padding: 0px;
+}
+.banner2{
+  background-color: #6c53a8;
+  position: relative;
+  width: 50px;
+  height: 3000px;
+  margin: 0px;
+  padding: 0px;
+  left: 500px;
+  bottom:1300px;
+}
+.contact{
+font-size: 30px;
+font-family: 'Prompt', sans-serif;
+position: absolute;
+left: 900px;
+top: 10px;
+color: #cfc829;
+line-height: -.5px;
+}
+#black{
+  font-size: 20px;
+  color: black;
+}
+.img{
+  position: absolute;
+  top: 600px;
+  left: 50px;
+}
+.info{
+font-size: 15px;
+color: black;
+position: absolute;
+right: 600px;
+top: 250px;
+
+}
+.venue{
+  position: absolute;
+  left: 650px;
+  top: 250px;
+}
+.rsvp{
+font-size: 60px;
+position: fixed;
+left: 500px;
+top:10px;
+color: #841c9f;font-weight: bolder;
+}

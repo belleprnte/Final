@@ -1,0 +1,106 @@
+body{
+margin: auto;
+}
+.banner{
+  background-color: #6c53a8;
+  position: relative;
+  width: 50px;
+  height: 3000px;
+  margin: 0px;
+  padding: 0px;
+}
+.banner2{
+  background-color: #6c53a8;
+  position: absolute;
+  width: 50px;
+  height: 3000px;
+  margin: 0px;
+  padding: 0px;
+  left: 1380px;
+  top: 2px;
+}
+.heading{
+  font-size: 30px;
+  font-family: 'Prompt', sans-serif;
+  position: absolute;
+  left: 1110px;
+  top: 10px;
+color: #cfc829;
+}
+#black{
+  font-size: 20px;
+  position: absolute;
+  right: 5px;
+  top: 200px;
+  color: black;
+  line-height: 1px;
+}
+.img{
+  position: absolute;
+  right: 648px;
+  top: 350px;
+}
+#que{
+  font-size: 13px;
+  position: absolute;
+  top: 150px;
+  right: 1235px;
+}
+.content3{
+  font-size: 15px;
+  position: absolute;
+  top: 150px;
+  right: 1170px;
+  color: black;
+  top: 250px;
+  font-weight: bolder;
+
+}
+.info{
+  font-size: 15px;
+  position: absolute;
+  top: 163px;
+  right: 1060px;
+  color: black;
+  font-weight: bolder;
+}
+.info2{
+  font-size: 15px;
+  position: absolute;
+  top: 185px;
+  right: 1060px;
+}
+.about{
+  font-size: 15px;
+  position: absolute;
+  color: black;
+  right: 200px;
+  top: 180px;
+}
+#about2{
+  font-weight: bolder;
+  font-kerning: 2px;
+}
+#about3{
+  position: absolute;
+  left: 335px;
+}
+.info5{
+  position: relative;
+  right: 340px;
+  top: 350px;
+  font-size: 11px;
+}
+.apply{
+  font-size: 100px;
+  color: #7826c1;
+  position: relative;
+  left: 100px;
+  top: 400px;
+  border: solid;
+  border-width: 3px;
+  border-left: 2px;
+  border-right: 2px;
+  
+
+}
