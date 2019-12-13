@@ -1,0 +1,55 @@
+
+body{
+margin: auto;
+}
+
+.logo{
+  position: relative;
+  width: 50px;
+  height:30px;
+}
+.info{
+  font-family: 'Prompt', sans-serif;
+  position: absolute;
+  left: 1000px;
+  top: 50px;
+  font-size: 12px;
+
+}
+.banner{
+  background-color: #6c53a8;
+  position: relative;
+  width: 50px;
+  height: 3000px;
+  margin: 0px;
+  padding: 0px;
+}
+.banner2{
+  background-color: #6c53a8;
+  position: absolute;
+  width: 50px;
+  height: 3000px;
+  margin: 0px;
+  padding: 0px;
+  left: 1380px;
+  top: 2px;
+}
+.img{
+  position: absolute;
+  right: 600px;
+  top: 330px;
+}
+.header{
+  font-size: 30px;
+  font-family: 'Prompt', sans-serif;
+  position: absolute;
+  left: 900px;
+  top: 10px;
+color: #cfc829;
+}
+.content{
+  position: absolute;
+  left: 20px;
+  color: black;
+  font-size: 20px;
+}

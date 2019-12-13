@@ -1,0 +1,39 @@
+
+
+.container1{
+  background-color: #b46de0;
+  width: 80%;
+  height: 100%;
+  margin: 20px;
+  border: solid 60px #b46de0;
+  border-radius: 25px;
+  padding-right: 70px;
+}
+.container{
+  background-color: black;
+  position: relative;
+  width: 75%;
+  height: 100%;
+  margin: 80px;
+  padding: 7px;
+  border: solid 60px #de3189;
+  border-radius: 20px;
+}
+.gif{
+  position: absolute;
+  right: 20px;
+}
+.head{
+  color: #f0e722;
+  font-size: 30px;
+  font-family: 'Inconsolata', monospace;
+}
+.baby{
+  color: #f0e722;
+  font-size: 30px;
+  font-family: 'Inconsolata', monospace;
+}
+#text{
+  font-family: 'Inconsolata', monospace;
+  color: white;
+}

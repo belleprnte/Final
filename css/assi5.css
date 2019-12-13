@@ -1,0 +1,86 @@
+body {
+	margin: 0;
+
+}
+#container{
+	position: absolute;
+	background-color: white;
+  padding: 100px;
+  padding-top: 100px;
+	left:0;
+	top:0;
+	height:100vh;
+	width: 100vw;
+}
+.O{
+  position: relative;
+  background-color: black;
+  height: 200px;
+  width: 200px;
+  top: 50;
+  left: 15%;
+  border-radius: 50%;
+}
+
+.O2{
+  position: relative;
+  background-color: black;
+  height: 200px;
+  width: 200px;
+  top: 0;
+  bottom:20%;
+  left: 120%;
+  border-radius: 50%;
+}
+
+.O3{
+  position: relative;
+  background-color: black;
+  height: 200px;
+  width: 200px;
+  top: 0%;
+  left: 120%;
+  border-radius: 50%;
+}
+
+.rect{
+  position: absolute;
+  background-color: black;
+  height: 400px;
+  width: 50px;
+	top: 0px;
+	bottom: 0%;
+
+}
+.Z{
+  position: relative;
+  background-color: black;
+  height: 200px;
+  width: 200px;
+  top: 0%;
+  left: 120%;
+  border-radius: 30%;
+}
+.tri{
+  position: relative;
+  background-color: white;
+  width: 0;
+  height: 0;
+  top: 20%;
+  left: 20%;
+  border-top: 40px solid red;
+  border-bottom: 70px solid red;
+  border-left: 60px solid red;
+  border-right:100px solid red;
+}
+.tri2{
+  position: relative;
+  background-color: red;
+  width: 0;
+ height: 0;
+ left: 80%;
+ bottom: 35%;
+ border-top: 40px solid transparent;
+ border-bottom: 70px solid transparent;
+ border-right:40px solid red;
+}

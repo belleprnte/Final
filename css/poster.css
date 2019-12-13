@@ -1,0 +1,125 @@
+body {
+  background-color: #d0a98f;
+  padding: 100%;
+}
+
+.background {
+  position: absolute;
+  top: 25%;
+  left: 100px;
+  width: 200px;
+  height: 22.5vw;
+  box-sizing: border-box;
+}
+
+.C {
+  position: relative;
+  background-color: #168b4f;
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  display: inline-block;
+  left: 5px;
+}
+
+.C2 {
+  height: 190px;
+  width: 250px;
+  position: absolute;
+  background-color: #d0a98f;
+  ;
+  border-radius: 50%;
+  display: inline-block;
+  left: 40px;
+  top: 5px;
+}
+
+.H {
+  border-left: 20px solid #168b4f;
+  height: 200px;
+  position: absolute;
+  left: 110%;
+  margin-left: -3px;
+  top: 0;
+}
+
+.H3 {
+  width: 100px;
+  height: 20px;
+  background: #168b4f;
+  position: absolute;
+  top: 80px;
+}
+
+.H2 {
+  border-left: 20px solid #168b4f;
+  height: 200px;
+  position: absolute;
+  left: 170%;
+  margin-left: -3px;
+  top: 0;
+}
+
+.O {
+  position: absolute;
+  background-color: #168b4f;
+  height: 200px;
+  width: 160px;
+  border-radius: 100px;
+  display: inline-block;
+  left: 420px;
+  top: 5px;
+}
+
+.O2 {
+  position: absolute;
+  background-color: #d0a98f;
+  height: 160px;
+  width: 100px;
+  border-radius: 100px;
+  display: inline-block;
+  left: 450px;
+  top: 25px;
+}
+
+.P {
+  border-left: 20px solid #168b4f;
+  height: 200px;
+  position: absolute;
+  left: 320%;
+  margin-left: -3px;
+  top: 5px;
+}
+
+.P2 {
+  position: absolute;
+  background-color: #168b4f;
+  height: 120px;
+  width: 120px;
+  border-radius: 80px;
+  display: inline-block;
+  left: 640px;
+  top: 2px;
+}
+
+.P3 {
+  position: absolute;
+  background-color: #d0a98f;
+  height: 80px;
+  width: 80px;
+  border-radius: 100px;
+  display: inline-block;
+  left: 660px;
+  top: 20px;
+}
+
+.C:hover{
+  position: absolute;
+  left: 400px;
+  animation-play-state: paused;
+}
+
+.C2:hover{
+  position: absolute;
+  left: 500px;
+}

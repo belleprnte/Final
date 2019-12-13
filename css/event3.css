@@ -1,0 +1,68 @@
+body{
+margin: auto;
+}
+
+.logo{
+  position: relative;
+  width: 50px;
+  height:30px;
+}
+
+.banner{
+  background-color: #6c53a8;
+  position: relative;
+  width: 50px;
+  height: 3000px;
+  margin: 0px;
+  padding: 0px;
+}
+.banner2{
+  background-color: #6c53a8;
+  position: absolute;
+  width: 50px;
+  height: 3000px;
+  margin: 0px;
+  padding: 0px;
+  left: 1380px;
+  top: 2px;
+}
+.header{
+  font-size: 90px;
+  font-family: 'Prompt', sans-serif;
+  position: absolute;
+  right: 800px;
+  bottom: 10px;
+  color: #cfc829;
+}
+.content{
+  position: absolute;
+  left: 20px;
+  color: black;
+  font-size: 20px;
+}
+#black{
+  font-size: 20px;
+  color: black;
+  line-height: -.1px;
+}
+.tickets{
+  font-size: 40px;
+  color: #551482;
+  font-weight: bolder;
+  position: absolute;
+  right: 800px;
+  top: 300px;
+
+  font-family: 'Prompt', sans-serif;
+}
+.img{
+  position: absolute;
+  left: 1000px;
+}
+.name{
+  position: absolute;
+  font-family: 'Prompt', sans-serif;
+  left: 855px;
+  top: 200px;
+  font-size: 12px;
+}

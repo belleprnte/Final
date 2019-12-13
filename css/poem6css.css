@@ -1,0 +1,42 @@
+.container{
+  background-color: #b30202;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+.anne{
+  font-family: 'Slabo 27px', serif;
+  font-size: 15px;
+  font-weight: lighter;
+  letter-spacing: 2px;
+}
+.hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #fffeff;
+    margin: 1em 0;
+    padding: 0;
+
+  }
+
+.kiss{
+  font-family:'Grenze', serif;
+  font-size: 200px;
+  font-weight: lighter;
+  letter-spacing: 10px;
+}
+.body{
+  font-family: 'Slabo 27px', serif;
+  color: white;
+  font-size: 60px;
+
+}
+.beginning{
+  text-transform: capitalize;
+}
+.knot{
+  line-height: 50px;
+}
